@@ -12,7 +12,7 @@
   {
     "prompt": "Extend the product with { color: \"red\" }",
     "dataset": "product",
-    "solution": "{ price, name, color: \"red\"}"
+    "solution": "{ name, price, color: \"red\"}"
   },
   {
     "prompt": "Construct a new object with the 'name' field renamed to 'title'",
